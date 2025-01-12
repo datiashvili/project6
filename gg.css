@@ -1,0 +1,55 @@
+.pp-1{
+    text-align: center;
+}
+
+
+.pp-2{
+    text-align: end;
+}
+
+
+.pp-3{
+    text-align:start ;
+}
+
+.hh-1{
+    text-align: center;
+}
+
+.hh-2{
+    text-align: end;
+}
+
+.pp-4{
+    width: 100px;
+    height: 100xp;
+    background-color: rgb(0, 255, 106);
+    border: 10px solid black;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+
+.pp-5{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 100%;
+}
+
+
+.pp-6{
+    background-color: green;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+}
+
+
+.pp-7{
+    background-color: green;
+    border-radius: 50%;
+    height: 100px;
+    width: 50%;
+    text-align: center;
+}
